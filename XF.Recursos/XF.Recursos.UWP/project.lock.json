@@ -22263,12 +22263,12 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Xamarin_Call\\Xamarin_Call\\XF.Recursos\\XF.Recursos.UWP\\XF.Recursos.UWP.csproj",
+      "projectUniqueName": "C:\\workspace\\code\\XamarinLigacao\\XF.Recursos\\XF.Recursos.UWP\\XF.Recursos.UWP.csproj",
       "projectName": "XF.Recursos.UWP",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Xamarin_Call\\Xamarin_Call\\XF.Recursos\\XF.Recursos.UWP\\XF.Recursos.UWP.csproj",
-      "projectJsonPath": "C:\\Users\\Administrator\\Desktop\\Xamarin_Call\\Xamarin_Call\\XF.Recursos\\XF.Recursos.UWP\\project.json",
+      "projectPath": "C:\\workspace\\code\\XamarinLigacao\\XF.Recursos\\XF.Recursos.UWP\\XF.Recursos.UWP.csproj",
+      "projectJsonPath": "C:\\workspace\\code\\XamarinLigacao\\XF.Recursos\\XF.Recursos.UWP\\project.json",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\Xamarin_Call\\Xamarin_Call\\XF.Recursos\\XF.Recursos.UWP\\obj\\",
+      "outputPath": "C:\\workspace\\code\\XamarinLigacao\\XF.Recursos\\XF.Recursos.UWP\\obj\\",
       "projectStyle": "ProjectJson",
       "configFilePaths": [
         "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22281,8 +22281,8 @@
       "frameworks": {
         "uap10.0.10586": {
           "projectReferences": {
-            "C:\\Users\\Administrator\\Desktop\\Xamarin_Call\\Xamarin_Call\\XF.Recursos\\XF.Recursos\\XF.Recursos.csproj": {
-              "projectPath": "C:\\Users\\Administrator\\Desktop\\Xamarin_Call\\Xamarin_Call\\XF.Recursos\\XF.Recursos\\XF.Recursos.csproj"
+            "C:\\workspace\\code\\XamarinLigacao\\XF.Recursos\\XF.Recursos\\XF.Recursos.csproj": {
+              "projectPath": "C:\\workspace\\code\\XamarinLigacao\\XF.Recursos\\XF.Recursos\\XF.Recursos.csproj"
             }
           }
         }

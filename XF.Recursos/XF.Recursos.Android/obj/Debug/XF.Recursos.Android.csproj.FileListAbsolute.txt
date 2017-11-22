@@ -54,5 +54,3 @@ C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos.Android\obj\Debug\andro
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\XF.Recursos.Android.dll.mdb
 C:\workspace\code\XamarinLigacao\XF.Recursos\XF.Recursos.Android\obj\Debug\android\assets\XF.Recursos.dll.mdb
-C:\Users\Administrator\Desktop\Xamarin_Call\Xamarin_Call\XF.Recursos\XF.Recursos.Android\obj\Debug\XF.Recursos.Android.dll
-C:\Users\Administrator\Desktop\Xamarin_Call\Xamarin_Call\XF.Recursos\XF.Recursos.Android\obj\Debug\XF.Recursos.Android.pdb
